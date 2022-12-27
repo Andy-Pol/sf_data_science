@@ -4,6 +4,6 @@ From the [Skillfactory Data Sciense course](https://skillfactory.ru/data-science
 
 ## Projects
 
-* [Project 0. Game: Gues the number]()
+* [Project 0. Game: Gues the number](https://github.com/Andy-Pol/sf_data_science/tree/main/Project%200)
 * [Project 1.]()
 * [Project 2.]()
