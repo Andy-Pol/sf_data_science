@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Folders to ignore
+.vccode/
+SF_DS_training/
+/get-pip.py
+/.gitignore
